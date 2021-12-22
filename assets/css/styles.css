@@ -1,0 +1,159 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+header {
+  background-color: white;
+  top: 0;
+  width: 100%;
+}
+header .logo__image {
+  width: 20rem;
+  padding: 1rem;
+}
+
+.content {
+  text-align: center;
+}
+
+footer {
+  background-color: #686963;
+  width: 100%;
+  text-align: center;
+  padding-block: 5rem;
+}
+footer .footerLogo__image {
+  width: 20rem;
+  padding: 1rem;
+}
+
+.content {
+  text-align: center;
+}
+
+.slogan {
+  background-color: #e56353;
+  padding: 12rem;
+}
+.slogan .slogan__text {
+  font-size: 70px;
+  font-weight: 200;
+  color: white;
+  text-align: center;
+}
+.slogan .slogan__text .slogan__text--span {
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.products {
+  background-color: #91918D;
+  padding-block: 4rem;
+  padding-inline: 7rem;
+}
+.products .products__image {
+  width: 100%;
+}
+.products .products__title {
+  font-size: 50px;
+  font-weight: 700;
+  color: #FAFAFA;
+  text-align: center;
+}
+.products .products__text {
+  font-size: 18px;
+  font-weight: 400;
+  color: #FAFAFA;
+  text-align: left;
+  line-height: 1.5rem;
+  margin-inline: 11rem;
+}
+
+.products2 {
+  background-color: #FAFAFA;
+  padding-block: 4rem;
+  padding-inline: 7rem;
+}
+.products2 .products2__image {
+  width: 100%;
+}
+.products2 .products2__title {
+  font-size: 50px;
+  font-weight: 700;
+  color: #686963;
+  text-align: center;
+}
+.products2 .products2__text {
+  font-size: 18px;
+  font-weight: 400;
+  color: #686963;
+  text-align: left;
+  line-height: 1.5rem;
+  margin-inline: 11rem;
+}
+
+.title {
+  background-color: #e56353;
+  padding: 3rem;
+}
+.title .title__text {
+  font-size: 70px;
+  font-weight: 700;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.aboutUs {
+  background-color: #FAFAFA;
+  padding-block: 4rem;
+  padding-inline: 7rem;
+}
+.aboutUs .aboutUs__image {
+  width: 40rem;
+  padding-inline: 18rem;
+  padding-top: 4rem;
+}
+.aboutUs .aboutUs__title {
+  font-size: 50px;
+  font-weight: 700;
+  color: #686963;
+  text-align: center;
+}
+.aboutUs .aboutUs__text {
+  font-size: 18px;
+  font-weight: 400;
+  color: #686963;
+  text-align: left;
+  line-height: 1.5rem;
+  margin-inline: 11rem;
+}
+
+.contact {
+  background-color: #e56353;
+  padding: 0.5rem;
+  text-align: center;
+}
+.contact .contact__Title {
+  font-size: 50px;
+  font-weight: 700;
+  color: white;
+  text-align: center;
+}
+
+.contact__Title--button {
+  background-color: white;
+  border: #686963;
+  border-radius: 5rem;
+  color: #686963;
+  padding: 1rem 3rem;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  display: inline-block;
+  font-size: 40px;
+  font-weight: 700;
+  width: 25rem;
+}
+
+/*# sourceMappingURL=styles.css.map */

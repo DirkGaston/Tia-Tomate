@@ -1,0 +1,102 @@
+// Sección Productos 1
+
+.products{
+    background-color: $bgcolor2;
+    padding-block: 4rem;
+    padding-inline: 7rem;
+
+    .products__image{
+        width: 100%;
+    }
+
+    .products__title{
+        font-size: $large;
+        font-weight: 700;
+        color: #FAFAFA;
+        text-align: center;
+    }
+
+    .products__text{
+        font-size: $medium;
+        font-weight: 400;
+        color: $font2;
+        text-align: left;
+        line-height: 1.5rem;
+        margin-inline: 11rem;
+    }
+}
+
+// Sección Productos 2
+
+.products2{
+    background-color: $bgcolor3;
+    padding-block: 4rem;
+    padding-inline: 7rem;
+
+    .products2__image{
+        width: 100%;
+    }
+
+    .products2__title{
+        font-size: $large;
+        font-weight: 700;
+        color: $font3;
+        text-align: center;
+    }
+
+    .products2__text{
+        font-size: $medium;
+        font-weight: 400;
+        color: $font3;
+        text-align: left;
+        line-height: 1.5rem;
+        margin-inline: 11rem;
+    }
+}
+
+// Sección Nosotros (Título)
+
+.title{
+    background-color: $bgcolor1;
+    padding: 3rem;
+
+    .title__text{
+        font-size: $x-large;
+        font-weight: 700;
+        color: $font1;
+        text-align: center;
+        text-transform: uppercase;
+    }
+}
+
+// Sección Nosotros
+
+.aboutUs{
+    background-color: $bgcolor3;
+    padding-block: 4rem;
+    padding-inline: 7rem;
+
+    .aboutUs__image{
+        width: 40rem;
+        padding-inline: 18rem;
+        padding-top: 4rem;
+
+    }
+
+    .aboutUs__title{
+        font-size: $large;
+        font-weight: 700;
+        color: $font3;
+        text-align: center;
+    }
+
+    .aboutUs__text{
+        font-size: $medium;
+        font-weight: 400;
+        color: $font3;
+        text-align: left;
+        line-height: 1.5rem;
+        margin-inline: 11rem;
+    }
+}
+

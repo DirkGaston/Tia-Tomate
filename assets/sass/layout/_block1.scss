@@ -1,0 +1,19 @@
+.slogan{
+    background-color: $bgcolor1;
+    padding: 12rem;
+
+    .slogan__text{
+        font-size: $x-large;
+        font-weight: 200;
+        color: $font1;
+        text-align: center;
+
+        .slogan__text--span{
+            text-transform: uppercase;
+            font-weight: 700;
+        }
+    }
+    
+}
+
+
