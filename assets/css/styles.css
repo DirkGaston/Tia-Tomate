@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
 body {
   font-family: "Raleway", sans-serif;
 }
@@ -33,7 +39,7 @@ footer .footerLogo__image {
 
 .slogan {
   background-color: #e56353;
-  padding: 12rem;
+  padding: 20rem;
 }
 .slogan .slogan__text {
   font-size: 70px;
@@ -59,6 +65,7 @@ footer .footerLogo__image {
   font-weight: 700;
   color: #FAFAFA;
   text-align: center;
+  margin-block: 2rem;
 }
 .products .products__text {
   font-size: 18px;
@@ -67,6 +74,7 @@ footer .footerLogo__image {
   text-align: left;
   line-height: 1.5rem;
   margin-inline: 11rem;
+  margin-bottom: 2rem;
 }
 
 .products2 {
@@ -82,6 +90,7 @@ footer .footerLogo__image {
   font-weight: 700;
   color: #686963;
   text-align: center;
+  margin-block: 2rem;
 }
 .products2 .products2__text {
   font-size: 18px;
@@ -90,11 +99,12 @@ footer .footerLogo__image {
   text-align: left;
   line-height: 1.5rem;
   margin-inline: 11rem;
+  margin-bottom: 2rem;
 }
 
 .title {
   background-color: #e56353;
-  padding: 3rem;
+  padding: 5rem;
 }
 .title .title__text {
   font-size: 70px;
@@ -119,6 +129,7 @@ footer .footerLogo__image {
   font-weight: 700;
   color: #686963;
   text-align: center;
+  margin-block: 2rem;
 }
 .aboutUs .aboutUs__text {
   font-size: 18px;
@@ -127,11 +138,12 @@ footer .footerLogo__image {
   text-align: left;
   line-height: 1.5rem;
   margin-inline: 11rem;
+  margin-bottom: 2rem;
 }
 
 .contact {
   background-color: #e56353;
-  padding: 0.5rem;
+  padding: 2rem;
   text-align: center;
 }
 .contact .contact__Title {
@@ -139,6 +151,21 @@ footer .footerLogo__image {
   font-weight: 700;
   color: white;
   text-align: center;
+  padding-bottom: 2rem;
+}
+.contact .contact__Title .contact__Title--button {
+  background-color: white;
+  border: #686963;
+  border-radius: 5rem;
+  color: #686963;
+  padding: 1rem 3rem;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  display: inline-block;
+  font-size: 40px;
+  font-weight: 700;
+  width: 25rem;
 }
 
 .contact__Title--button {
