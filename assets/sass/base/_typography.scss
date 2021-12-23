@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;400;700&display=swap');
+
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+.slogan__text{
+    font-size: $x-large;
+    font-weight: 200;
+    color: $font1;
+    text-align: center;
+
+    .slogan__text--span{
+        text-transform: uppercase;
+        font-weight: 700;
+    }
+}
+    
+.products__title{
+    font-size: $large;
+    font-weight: 700;
+    color: #FAFAFA;
+    text-align: center;
+    margin-block: 2rem;
+}
+
+.products__text{
+    font-size: $medium;
+    font-weight: 400;
+    color: $font2;
+    text-align: left;
+    line-height: 1.5rem;
+    margin-inline: 11rem;
+    margin-bottom: 2rem;
+    
+}
+
+.products2__title{
+    font-size: $large;
+    font-weight: 700;
+    color: $font3;
+    text-align: center;
+    margin-block: 2rem;
+
+}
+
+.products2__text{
+    font-size: $medium;
+    font-weight: 400;
+    color: $font3;
+    text-align: left;
+    line-height: 1.5rem;
+    margin-inline: 11rem;
+    margin-bottom: 2rem;
+
+}
+
+.title__text{
+    font-size: $x-large;
+    font-weight: 700;
+    color: $font1;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.aboutUs__title{
+    font-size: $large;
+    font-weight: 700;
+    color: $font3;
+    text-align: center;
+    margin-block: 2rem;
+
+}
+
+.aboutUs__text{
+    font-size: $medium;
+    font-weight: 400;
+    color: $font3;
+    text-align: left;
+    line-height: 1.5rem;
+    margin-inline: 11rem;
+    margin-bottom: 2rem;
+
+}
+
+.contact__Title{
+    font-size: $large;
+    font-weight: 700;
+    color: $font1;
+    text-align: center;
+    padding-bottom: 2rem;
+}
