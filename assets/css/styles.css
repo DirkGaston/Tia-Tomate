@@ -486,9 +486,8 @@ footer .footerLogo__image {
   padding-inline: 7rem;
 }
 .aboutUs .aboutUs__image {
-  width: 40rem;
-  padding-inline: 18rem;
-  padding-top: 4rem;
+  width: 50%;
+  margin-inline: 20rem;
 }
 
 .contact {
